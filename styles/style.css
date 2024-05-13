@@ -9,18 +9,18 @@ canvas {
   left: 0;
 }
 body {
-  background: #ffffff;
+  background: #FFFFFF;
   overflow: hidden;
 }
 .container {
   color: rgba(55, 59, 65, 0.8);
   font-family: Helvetica, sans-serif;
-  font-weight: lighter;
+  font-weight: bold;
   text-align: center;
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
 }
 li {
   display: inline-block;

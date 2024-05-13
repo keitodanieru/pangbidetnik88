@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'April 30, 2024',
-  name: 'CK Del Carmen XD'
+  birthdate: 'May 13, 2024',
+  name: 'CK!! (habadu accla)'
 };
 
 function hideEverything() {
